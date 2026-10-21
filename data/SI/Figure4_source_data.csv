@@ -1,0 +1,39 @@
+topic_id,name,group,group_name,tvr,osi,quadrant,quadrant_name
+T1,Emission accounting,G1,Emission accounting and targets,-3.19,0.828,IV,Silent dissent
+T2,Renewable energy,G2,Sector mitigation,-3.71,0.962,III,Silent support
+T3,Resilience strategies,G3,Adaptation,-0.91,0.904,III,Silent support
+T4,Adaptation processes,G3,Adaptation,-1.976,0.934,III,Silent support
+T5,Targets and ambition,G1,Emission accounting and targets,-4.746,0.922,III,Silent support
+T6,Climate impact,G3,Adaptation,-1.102,0.828,IV,Silent dissent
+T7,Governance and direction,G4,Governance and regulation,-3.203,0.926,III,Silent support
+T8,Regulatory frameworks,G4,Governance and regulation,0.513,0.839,II,Amplified dissent
+T9,Sustainable resource use,G5,Social inclusion,1.479,0.844,II,Amplified dissent
+T10,Waste and emission,G2,Sector mitigation,0.917,0.808,II,Amplified dissent
+T11,Institutional responsibilities,G3,Adaptation,1.302,0.808,II,Amplified dissent
+T12,Projects and management,G2,Sector mitigation,-0.647,0.9,III,Silent support
+T13,Gender and community,G5,Social inclusion,0.725,0.886,I,Amplified support
+T14,Carbon and forest economy,G6,Finance and carbon markets,0.619,0.874,I,Amplified support
+T15,Climate finance,G6,Finance and carbon markets,2.082,0.806,II,Amplified dissent
+T16,Government official sources,G4,Governance and regulation,-0.039,0.857,IV,Silent dissent
+T17,Resource extraction,G2,Sector mitigation,0.671,0.864,I,Amplified support
+T18,Public transport systems,G2,Sector mitigation,-1.311,0.908,III,Silent support
+T19,Sectoral emission mitigation,G1,Emission accounting and targets,-1.188,0.888,III,Silent support
+T20,Freight and logistics,G2,Sector mitigation,-2.948,0.94,III,Silent support
+T21,MRV systems,G4,Governance and regulation,0.353,0.866,I,Amplified support
+T22,Education and research,G5,Social inclusion,1.311,0.869,I,Amplified support
+T23,GHG emissions commitments,G1,Emission accounting and targets,1.781,0.815,II,Amplified dissent
+T24,Public consultation,G5,Social inclusion,0.191,0.858,I,Amplified support
+T25,Carbon pricing and targets,G6,Finance and carbon markets,-2.824,0.888,III,Silent support
+T26,Ozone and refrigerants,G2,Sector mitigation,1.471,0.744,II,Amplified dissent
+T27,Emission trading,G6,Finance and carbon markets,-1.862,0.838,IV,Silent dissent
+T28,Legislation and directives,G4,Governance and regulation,-1.572,0.824,IV,Silent dissent
+T29,Net zero strategies,G2,Sector mitigation,1.232,0.854,II,Amplified dissent
+T30,Agreement compliance,G1,Emission accounting and targets,0.24,0.844,II,Amplified dissent
+T31,Aviation and shipping,G2,Sector mitigation,-0.313,0.833,IV,Silent dissent
+T32,Carbon removals strategies,G2,Sector mitigation,-2.278,0.879,III,Silent support
+T33,Mitigation actions,G2,Sector mitigation,1.214,0.807,II,Amplified dissent
+T34,Loss and damage,G3,Adaptation,1.948,0.793,II,Amplified dissent
+T35,Energy regulation standards,G2,Sector mitigation,2.606,0.841,II,Amplified dissent
+T36,System transparency,G4,Governance and regulation,0.6,0.883,I,Amplified support
+T37,Accounting methods and verification,G4,Governance and regulation,-0.8,0.855,IV,Silent dissent
+T38,Climate compatibility,G3,Adaptation,1.802,0.793,II,Amplified dissent

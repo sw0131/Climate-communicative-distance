@@ -1,0 +1,6 @@
+﻿Inclusion threshold,Countries,Share of posts retained,Mean ADI,Mean OSI
+> 100 posts,100,100.0%,0.100,0.725
+> 200 posts,82,99.6%,0.103,0.732
+> 500 posts,54,98.0%,0.106,0.748
+"> 1,000 posts",41,96.2%,0.105,0.749
+"> 2,000 posts",24,92.3%,0.110,0.748

@@ -1,0 +1,181 @@
+group,rank,term,weight,keep
+G1,1,agreement,0.014989,1
+G1,2,UNFCCC,0.00958,1
+G1,3,convention,0.00887,1
+G1,4,ambition,0.007689,1
+G1,5,nationally determined,0.007114,1
+G1,6,long term,0.006638,1
+G1,7,GHG emission,0.006596,1
+G1,8,contribution,0.006371,1
+G1,9,economy-wide,0.006191,1
+G1,10,emission,0.006127,1
+G1,11,emission reduction,0.005172,1
+G1,12,mitigation,0.004937,1
+G1,13,policymeasure,0.004226,1
+G1,14,reduction,0.004189,1
+G1,15,objective,0.003743,1
+G1,16,unconditional,0.00374,0
+G1,17,policy,0.003715,0
+G1,18,conditional,0.00327,0
+G1,19,baseline,0.003159,0
+G1,20,updatedndc,0.003064,0
+G1,21,technology,0.002981,0
+G1,22,bauscenario,0.002789,0
+G1,23,sector,0.002538,0
+G1,24,ghginventory,0.002534,0
+G1,25,timorleste,0.002453,0
+G1,26,well,0.002059,0
+G1,27,accounting,0.001972,0
+G1,28,scenario,0.001782,0
+G1,29,included,0.001655,0
+G1,30,priority,0.001527,0
+G2,1,vehicle,0.006224,1
+G2,2,fuel,0.005731,1
+G2,3,transport,0.004219,1
+G2,4,energy efficiency,0.004111,1
+G2,5,standard,0.003577,1
+G2,6,transportation,0.003396,1
+G2,7,energy,0.003222,1
+G2,8,road,0.002877,1
+G2,9,removal,0.002798,1
+G2,10,emission removal,0.002376,1
+G2,11,methodology,0.002153,1
+G2,12,description,0.002104,1
+G2,13,diesel,0.002051,1
+G2,14,freight,0.001981,1
+G2,15,electricvehicle,0.001972,1
+G2,16,network,0.00197,0
+G2,17,building,0.001963,0
+G2,18,railway,0.001882,0
+G2,19,mobility,0.001775,0
+G2,20,expected,0.001751,0
+G2,21,carbondioxide,0.001723,0
+G2,22,amount,0.001702,0
+G2,23,leap,0.001653,0
+G2,24,consideration,0.001643,0
+G2,25,industrial,0.001638,0
+G2,26,anthropogenic,0.001614,0
+G2,27,control,0.001559,0
+G2,28,indicator,0.001509,0
+G2,29,GHG emission,0.001455,0
+G2,30,passenger,0.001425,0
+G3,1,assessment,0.008452,1
+G3,2,vulnerability,0.006576,1
+G3,3,health,0.005242,1
+G3,4,climate change,0.00518,1
+G3,5,adaptation,0.004736,1
+G3,6,ministry,0.004617,1
+G3,7,risk,0.004323,1
+G3,8,gender,0.003778,1
+G3,9,SDGs,0.003362,1
+G3,10,agricultural,0.00328,1
+G3,11,waterresource,0.002996,1
+G3,12,ecosystem,0.002948,1
+G3,13,international,0.002933,1
+G3,14,subnational,0.002796,1
+G3,15,coastalzone,0.002577,1
+G3,16,impact,0.002487,0
+G3,17,effect,0.00247,0
+G3,18,response,0.002437,0
+G3,19,service,0.0023,0
+G3,20,production,0.002285,0
+G3,21,disease,0.002221,0
+G3,22,protection,0.002203,0
+G3,23,drought,0.0022,0
+G3,24,tourism,0.00216,0
+G3,25,planning,0.002154,0
+G3,26,loss,0.00213,0
+G3,27,extreme,0.002056,0
+G3,28,management,0.001995,0
+G3,29,access,0.001979,0
+G3,30,improved,0.001869,0
+G4,1,measurement,0.003618,1
+G4,2,planning,0.003567,1
+G4,3,decree,0.003477,1
+G4,4,method,0.003173,1
+G4,5,transparency,0.002995,1
+G4,6,greenhouse gas,0.002756,1
+G4,7,committee,0.002541,1
+G4,8,directorate,0.00238,1
+G4,9,INDC,0.002201,1
+G4,10,regulation,0.002127,1
+G4,11,UNFCCC,0.001916,1
+G4,12,institution,0.001911,1
+G4,13,coordination,0.001859,1
+G4,14,ministry,0.001839,1
+G4,15,unitednation,0.001719,1
+G4,16,institute,0.001665,0
+G4,17,management,0.00149,0
+G4,18,information,0.001474,0
+G4,19,environment,0.001304,0
+G4,20,ministryenvironment,0.001279,0
+G4,21,capacitybuilding,0.001259,0
+G4,22,technical,0.001185,0
+G4,23,climate change,0.001122,0
+G4,24,priority,0.001114,0
+G4,25,content,0.00108,0
+G4,26,ipcc,0.00107,0
+G4,27,ndcs,0.001047,0
+G4,28,sector,0.001042,0
+G4,29,policy,0.000944,0
+G4,30,update,0.000933,0
+G5,1,youth,0.011106,1
+G5,2,woman,0.010085,1
+G5,3,gender equality,0.008793,1
+G5,4,indigenous people,0.007612,1
+G5,5,education,0.007173,1
+G5,6,participation,0.007125,1
+G5,7,university,0.00627,1
+G5,8,human rights,0.005841,1
+G5,9,initiative,0.00531,1
+G5,10,community,0.005148,1
+G5,11,opportunity,0.005026,1
+G5,12,mining,0.004487,1
+G5,13,awareness,0.004058,1
+G5,14,research,0.003996,1
+G5,15,climateaction,0.003285,1
+G5,16,water,0.002727,0
+G5,17,sustainable,0.002704,0
+G5,18,training,0.002636,0
+G5,19,people,0.002571,0
+G5,20,government,0.002533,0
+G5,21,economic,0.002456,0
+G5,22,local,0.002376,0
+G5,23,construction,0.002275,0
+G5,24,future,0.001925,0
+G5,25,environmental,0.001852,0
+G5,26,energy,0.001804,0
+G5,27,strategy,0.001561,0
+G5,28,policy,0.001487,0
+G5,29,state,0.001378,0
+G5,30,sector,0.001365,0
+G6,1,carbon,0.008096,1
+G6,2,credit,0.006648,1
+G6,3,fund,0.006571,1
+G6,4,climate neutrality,0.006174,1
+G6,5,EU member,0.006023,1
+G6,6,domestic,0.005746,1
+G6,7,innovative,0.004983,1
+G6,8,EU ETS,0.004779,1
+G6,9,forest,0.004539,1
+G6,10,transition,0.004226,1
+G6,11,LULUCF,0.004148,1
+G6,12,climate resilient,0.004088,1
+G6,13,financing,0.004053,1
+G6,14,economy,0.003348,1
+G6,15,memberstate,0.002883,1
+G6,16,guidance,0.002823,0
+G6,17,updated,0.002082,0
+G6,18,nationally determined,0.002054,0
+G6,19,state,0.002023,0
+G6,20,international,0.001916,0
+G6,21,sustainable,0.001906,0
+G6,22,improved,0.001831,0
+G6,23,update,0.001723,0
+G6,24,based,0.001713,0
+G6,25,emission,0.001573,0
+G6,26,greenhouse gas,0.001565,0
+G6,27,finance,0.001234,0
+G6,28,forestry,0.001231,0
+G6,29,access,0.001106,0
+G6,30,country,0.001039,0

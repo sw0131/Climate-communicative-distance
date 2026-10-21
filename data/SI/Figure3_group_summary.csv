@@ -1,0 +1,7 @@
+group,TVR_mean,OSI_mean,over_discussed,under_discussed,higher_support,lower_support
+G1: Emission accounting and targets,-0.661,0.824,18,82,56,44
+G2: Sector mitigation,0.197,0.826,76,24,55,45
+G3: Adaptation,0.286,0.816,48,52,49,51
+G4: Governance and regulation,-0.159,0.856,43,57,68,32
+G5: Social inclusion,1.074,0.857,99,1,67,33
+G6: Finance and carbon markets,0.918,0.819,78,22,51,49

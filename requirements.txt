@@ -1,0 +1,13 @@
+# Light environment: notebooks 01 (as shipped, topic model frozen), 05-11, and the figure scripts.
+pandas>=2.0
+numpy
+scipy
+nltk==3.9.1
+gensim==4.4.0
+statsmodels==0.14.5
+geopandas
+matplotlib
+pyarrow
+openpyxl
+# The post-side steps (notebooks 02-04) and rebuilding the topic model need the pinned
+# GPU environment listed in README.md.

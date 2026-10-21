@@ -1,0 +1,143 @@
+﻿country,climate_posts,accounts,total_posts,climate_share_pct,above_threshold,in_analytical_sample
+United States of America,225138,68823,141067289,0.1596,True,True
+U.K. of Great Britain and Northern Ireland,93456,28045,32997407,0.2832,True,True
+India,51974,17344,15691678,0.3312,True,True
+Canada,36029,8610,8827553,0.4081,True,True
+Australia,27026,5294,4929529,0.5482,True,True
+Kenya,14011,3762,2757451,0.5081,True,True
+Nigeria,11775,5209,9698080,0.1214,True,True
+Ireland,11733,2805,2701970,0.4342,True,True
+Pakistan,8689,2459,2485465,0.3496,True,True
+South Africa,6864,2848,7230706,0.0949,True,True
+Uganda,5875,1815,1962548,0.2994,True,True
+Egypt,5670,1309,370534,1.5302,True,True
+Germany,5548,2224,1686184,0.329,True,True
+France,4313,1872,1390023,0.3103,True,True
+New Zealand,4049,817,883424,0.4583,True,True
+Netherlands,3869,1252,1017012,0.3804,True,True
+Spain,3569,1760,1871043,0.1907,True,True
+Italy,3246,1412,1232834,0.2633,True,True
+Belgium,2940,1038,431033,0.6821,True,True
+Philippines,2786,1502,4271770,0.0652,True,True
+Ghana,2529,1056,2159581,0.1171,True,True
+Bangladesh,2390,478,535924,0.446,True,True
+United Arab Emirates,2262,979,1348217,0.1678,True,True
+Sweden,2124,732,444710,0.4776,True,True
+Switzerland,1870,818,297180,0.6292,True,True
+Malaysia,1847,905,1718140,0.1075,True,True
+Mexico,1616,656,1205676,0.134,True,True
+Finland,1552,479,190843,0.8132,True,True
+United Republic of Tanzania,1489,635,523331,0.2845,True,True
+Indonesia,1478,726,2687634,0.055,True,True
+Zimbabwe,1393,535,519801,0.268,True,True
+Turkey,1342,536,912397,0.1471,True,True
+Thailand,1317,502,838971,0.157,True,True
+Portugal,1229,660,462949,0.2655,True,True
+China,1226,505,2549896,0.0481,True,True
+Brazil,1208,625,2091441,0.0578,True,True
+Somalia,1196,306,41980,2.849,True,True
+Rwanda,1158,364,111104,1.0423,True,True
+Saudi Arabia,1149,739,64760304,0.0018,True,True
+Nepal,1113,418,203049,0.5481,True,True
+Zambia,1050,310,419414,0.2503,True,True
+Colombia,963,296,413827,0.2327,True,True
+Denmark,942,465,213703,0.4408,True,True
+Norway,910,422,200551,0.4537,True,True
+Ethiopia,909,320,101186,0.8983,True,True
+Poland,864,320,287264,0.3008,True,True
+Austria,863,399,204528,0.4219,True,True
+Greece,830,449,329431,0.2519,True,True
+Singapore,816,419,527378,0.1547,True,True
+Yemen,778,275,56835,1.3689,True,False
+Japan,762,421,828653,0.092,True,True
+Qatar,704,309,304739,0.231,True,True
+Jamaica,691,241,531116,0.1301,True,True
+Sri Lanka,640,323,380842,0.168,True,True
+Malawi,505,224,369696,0.1366,True,True
+Lebanon,489,229,144910,0.3375,True,True
+Israel,466,214,241258,0.1932,True,True
+Costa Rica,461,121,116286,0.3964,True,True
+Taiwan,455,157,1666641,0.0273,True,False
+Republic of Korea,418,190,282955,0.1477,True,True
+Botswana,399,152,402556,0.0991,True,True
+Ukraine,396,165,307078,0.129,True,True
+Czech Republic,370,188,167591,0.2208,True,True
+Cameroon,356,159,155030,0.2296,True,True
+Russian Federation,354,82,207026,0.171,True,True
+Vietnam,354,152,195371,0.1812,True,True
+Argentina,347,197,493988,0.0702,True,True
+Tunisia,346,117,35123,0.9851,True,True
+Cyprus,329,138,156338,0.2104,True,True
+Maldives,324,135,70986,0.4564,True,True
+Trinidad and Tobago,303,118,267995,0.1131,True,True
+Hong Kong,291,132,288935,0.1007,True,False
+Gambia,281,89,64679,0.4345,True,True
+Namibia,277,162,,,True,True
+Jordan,276,144,54695,0.5046,True,True
+Serbia,275,87,100279,0.2742,True,True
+Sierra Leone,268,98,73915,0.3626,True,True
+Iraq,255,116,88143,0.2893,True,True
+Iceland,240,135,86267,0.2782,True,True
+Romania,232,121,153077,0.1516,True,True
+Mozambique,228,35,31583,0.7219,True,True
+Bahrain,220,94,183748,0.1197,True,True
+Iran (Islamic Republic of),211,71,145625,0.1449,True,False
+Croatia,210,112,105812,0.1985,True,True
+Oman,209,90,141952,0.1472,True,True
+Chile,203,142,227275,0.0893,True,True
+Democratic Republic of the Congo,198,91,54606,0.3626,True,True
+Bahamas,191,86,187194,0.102,True,True
+Ecuador,186,95,115969,0.1604,True,True
+Lesotho,177,50,74885,0.2364,True,True
+Barbados,177,79,138181,0.1281,True,True
+Kazakhstan,175,52,40902,0.4279,True,True
+Hungary,172,130,117141,0.1468,True,True
+Azerbaijan,154,65,33209,0.4637,True,True
+Malta,152,95,69987,0.2172,True,True
+Albania,136,65,36820,0.3694,True,True
+Liberia,118,53,54064,0.2183,True,True
+South Sudan,118,68,,,True,True
+Guatemala,113,50,68793,0.1643,True,True
+Kuwait,112,64,299703,0.0374,True,True
+Georgia,111,55,58463,0.1899,True,True
+Slovakia,110,52,47857,0.2299,True,True
+Dominican Republic,108,67,159307,0.0678,True,True
+Algeria,104,49,45841,0.2269,True,True
+Lithuania,98,32,25758,0.3805,False,False
+Latvia,98,53,47478,0.2064,False,False
+Burundi,86,23,9771,0.8802,False,False
+Bermuda,81,22,34126,0.2374,False,False
+Venezuela,77,31,113448,0.0679,False,False
+Isle of Man,72,8,5997,1.2006,False,False
+Swaziland,68,26,55847,0.1218,False,False
+Uruguay,68,46,70065,0.0971,False,False
+Togo,68,29,14942,0.4551,False,False
+Mongolia,67,39,11844,0.5657,False,False
+Afghanistan,66,40,30194,0.2186,False,False
+Belize,61,30,27619,0.2209,False,False
+Bhutan,60,33,12894,0.4653,False,False
+Angola,57,15,18273,0.3119,False,False
+"Moldova, Republic of",57,17,6791,0.8393,False,False
+Bolivia,55,28,19900,0.2764,False,False
+Madagascar,53,31,7756,0.6833,False,False
+Antigua & Barbuda,48,22,63323,0.0758,False,False
+Guyana,45,22,21494,0.2094,False,False
+Libyan Arab Jamahiriya,37,25,31743,0.1166,False,False
+Bosnia & Herzegovina,37,28,25198,0.1468,False,False
+The former Yugoslav Republic of Macedonia,34,25,15443,0.2202,False,False
+Cayman Islands,32,21,22676,0.1411,False,False
+Burkina Faso,30,16,6771,0.4431,False,False
+Fiji,29,25,3612,0.8029,False,False
+Seychelles,28,15,6967,0.4019,False,False
+Solomon Islands,27,13,2489,1.0848,False,False
+Kyrgyzstan,26,17,10594,0.2454,False,False
+Myanmar,25,17,52536,0.0476,False,False
+Haiti,22,15,25167,0.0874,False,False
+Tajikistan,18,11,2587,0.6958,False,False
+Andorra,13,9,4905,0.265,False,False
+Macao,12,3,17497,0.0686,False,False
+Suriname,12,9,4758,0.2522,False,False
+Guinea,12,8,14154,0.0848,False,False
+Belarus,9,6,14776,0.0609,False,False
+Liechtenstein,3,1,9467,0.0317,False,False
+British Virgin Islands,1,1,12011,0.0083,False,False

@@ -1,0 +1,146 @@
+{
+ "TOPIC_GROUPS_NDC": {
+  "G1": [
+   1,
+   6,
+   33,
+   17,
+   11
+  ],
+  "G2": [
+   0,
+   19,
+   7,
+   34,
+   25,
+   35,
+   24,
+   29,
+   15,
+   16,
+   27,
+   31
+  ],
+  "G3": [
+   3,
+   4,
+   2,
+   21,
+   36,
+   23
+  ],
+  "G4": [
+   5,
+   20,
+   9,
+   28,
+   13,
+   18,
+   26
+  ],
+  "G5": [
+   22,
+   8,
+   30,
+   10
+  ],
+  "G6": [
+   32,
+   37,
+   14,
+   12
+  ]
+ },
+ "TOPIC_GROUPS_TW": {
+  "G1": [
+   1,
+   5,
+   19,
+   23,
+   30
+  ],
+  "G2": [
+   2,
+   10,
+   12,
+   17,
+   18,
+   20,
+   26,
+   29,
+   31,
+   32,
+   33,
+   35
+  ],
+  "G3": [
+   3,
+   4,
+   6,
+   11,
+   34,
+   38
+  ],
+  "G4": [
+   7,
+   8,
+   16,
+   21,
+   28,
+   36,
+   37
+  ],
+  "G5": [
+   9,
+   13,
+   22,
+   24
+  ],
+  "G6": [
+   14,
+   15,
+   25,
+   27
+  ]
+ },
+ "MAP_TW_TOPIC_TO_NDC_SUBTOPIC": {
+  "Topic_1": "Subtopic_1",
+  "Topic_2": "Subtopic_0",
+  "Topic_3": "Subtopic_3",
+  "Topic_4": "Subtopic_4",
+  "Topic_5": "Subtopic_6",
+  "Topic_6": "Subtopic_2",
+  "Topic_7": "Subtopic_5",
+  "Topic_8": "Subtopic_20",
+  "Topic_9": "Subtopic_22",
+  "Topic_10": "Subtopic_19",
+  "Topic_11": "Subtopic_21",
+  "Topic_12": "Subtopic_7",
+  "Topic_13": "Subtopic_8",
+  "Topic_14": "Subtopic_32",
+  "Topic_15": "Subtopic_37",
+  "Topic_16": "Subtopic_9",
+  "Topic_17": "Subtopic_34",
+  "Topic_18": "Subtopic_25",
+  "Topic_19": "Subtopic_33",
+  "Topic_20": "Subtopic_35",
+  "Topic_21": "Subtopic_28",
+  "Topic_22": "Subtopic_30",
+  "Topic_23": "Subtopic_17",
+  "Topic_24": "Subtopic_10",
+  "Topic_25": "Subtopic_14",
+  "Topic_26": "Subtopic_24",
+  "Topic_27": "Subtopic_12",
+  "Topic_28": "Subtopic_13",
+  "Topic_29": "Subtopic_29",
+  "Topic_30": "Subtopic_11",
+  "Topic_31": "Subtopic_15",
+  "Topic_32": "Subtopic_16",
+  "Topic_33": "Subtopic_27",
+  "Topic_34": "Subtopic_36",
+  "Topic_35": "Subtopic_31",
+  "Topic_36": "Subtopic_18",
+  "Topic_37": "Subtopic_26",
+  "Topic_38": "Subtopic_23"
+ }
+}

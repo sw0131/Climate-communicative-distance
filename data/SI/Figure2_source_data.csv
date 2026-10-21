@@ -1,0 +1,101 @@
+country,climate_posts,ADI_raw,ADI_rescaled,ADI_band,OSI,OSI_band,negotiating_groups
+Australia,27026,0.2904,1.0,high (>=0.55),0.6002,"low (>=0.55, <0.65)",Umbrella Group
+Serbia,275,0.2325,0.7918,high (>=0.55),0.8327,"high (>=0.75, <0.85)",
+Jamaica,691,0.2292,0.7797,high (>=0.55),0.7467,"medium (>=0.65, <0.75)","G77 & China, SIDS"
+Malaysia,1847,0.2056,0.6949,high (>=0.55),0.6957,"medium (>=0.65, <0.75)",G77 & China
+Mozambique,228,0.205,0.6925,high (>=0.55),0.8947,very high (>=0.85),"G77 & China, LDC"
+Iceland,240,0.194,0.6529,high (>=0.55),0.6708,"medium (>=0.65, <0.75)",
+Zambia,1050,0.1895,0.637,high (>=0.55),0.8419,"high (>=0.75, <0.85)","G77 & China, LDC"
+New Zealand,4049,0.1787,0.5978,high (>=0.55),0.6607,"medium (>=0.65, <0.75)",Umbrella Group
+Japan,762,0.1762,0.5888,high (>=0.55),0.6929,"medium (>=0.65, <0.75)",Umbrella Group
+South Africa,6864,0.1667,0.5545,high (>=0.55),0.6632,"medium (>=0.65, <0.75)",G77 & China
+Norway,910,0.1606,0.5326,"medium-high (>=0.25, <0.55)",0.7407,"medium (>=0.65, <0.75)",Umbrella Group
+United States of America,225138,0.1595,0.5288,"medium-high (>=0.25, <0.55)",0.647,"low (>=0.55, <0.65)",Umbrella Group
+Russian Federation,354,0.1534,0.5067,"medium-high (>=0.25, <0.55)",0.6158,"low (>=0.55, <0.65)",Umbrella Group
+Ukraine,396,0.1474,0.4851,"medium-high (>=0.25, <0.55)",0.4798,very low (<0.55),Umbrella Group
+Canada,36029,0.1416,0.4643,"medium-high (>=0.25, <0.55)",0.6218,"low (>=0.55, <0.65)",Umbrella Group
+Brazil,1208,0.1395,0.4566,"medium-high (>=0.25, <0.55)",0.6093,"low (>=0.55, <0.65)",G77 & China
+Ghana,2529,0.139,0.455,"medium-high (>=0.25, <0.55)",0.8525,very high (>=0.85),G77 & China
+Switzerland,1870,0.1352,0.4412,"medium-high (>=0.25, <0.55)",0.7861,"high (>=0.75, <0.85)",EIG
+Georgia,111,0.1347,0.4396,"medium-high (>=0.25, <0.55)",0.6577,"medium (>=0.65, <0.75)",
+Singapore,816,0.1346,0.4389,"medium-high (>=0.25, <0.55)",0.777,"high (>=0.75, <0.85)","G77 & China, SIDS"
+Barbados,177,0.1327,0.4323,"medium-high (>=0.25, <0.55)",0.8192,"high (>=0.75, <0.85)","G77 & China, SIDS"
+Argentina,347,0.1321,0.4299,"medium-high (>=0.25, <0.55)",0.6888,"medium (>=0.65, <0.75)",G77 & China
+Kuwait,112,0.1305,0.4242,"medium-high (>=0.25, <0.55)",0.5714,"low (>=0.55, <0.65)",
+Kenya,14011,0.1264,0.4097,"medium-high (>=0.25, <0.55)",0.8467,"high (>=0.75, <0.85)",G77 & China
+Trinidad and Tobago,303,0.1237,0.3997,"medium-high (>=0.25, <0.55)",0.7591,"high (>=0.75, <0.85)","G77 & China, SIDS"
+Zimbabwe,1393,0.1214,0.3915,"medium-high (>=0.25, <0.55)",0.85,"high (>=0.75, <0.85)",G77 & China
+Liberia,118,0.1196,0.3851,"medium-high (>=0.25, <0.55)",0.8814,very high (>=0.85),
+U.K. of Great Britain and Northern Ireland,93456,0.1181,0.3797,"medium-high (>=0.25, <0.55)",0.6688,"medium (>=0.65, <0.75)",
+Nepal,1113,0.1137,0.3639,"medium-high (>=0.25, <0.55)",0.8491,"high (>=0.75, <0.85)","G77 & China, LDC"
+Republic of Korea,418,0.1077,0.3423,"medium-high (>=0.25, <0.55)",0.6579,"medium (>=0.65, <0.75)",EIG
+India,51974,0.1077,0.3423,"medium-high (>=0.25, <0.55)",0.8585,very high (>=0.85),G77 & China
+Thailand,1317,0.1067,0.3386,"medium-high (>=0.25, <0.55)",0.5649,"low (>=0.55, <0.65)",G77 & China
+Philippines,2786,0.1055,0.3342,"medium-high (>=0.25, <0.55)",0.7355,"medium (>=0.65, <0.75)","G77 & China, SIDS"
+Nigeria,11775,0.102,0.3218,"medium-high (>=0.25, <0.55)",0.798,"high (>=0.75, <0.85)",G77 & China
+Ethiopia,909,0.1004,0.3158,"medium-high (>=0.25, <0.55)",0.8713,very high (>=0.85),"G77 & China, LDC"
+Uganda,5875,0.0993,0.312,"medium-high (>=0.25, <0.55)",0.8919,very high (>=0.85),"G77 & China, LDC"
+Lebanon,489,0.0972,0.3045,"medium-high (>=0.25, <0.55)",0.6667,"medium (>=0.65, <0.75)","G77 & China, Arab Group"
+Azerbaijan,154,0.0946,0.2949,"medium-high (>=0.25, <0.55)",0.8896,very high (>=0.85),
+Maldives,324,0.0939,0.2925,"medium-high (>=0.25, <0.55)",0.7901,"high (>=0.75, <0.85)","G77 & China, SIDS"
+Slovakia,110,0.0898,0.2778,"medium-high (>=0.25, <0.55)",0.6909,"medium (>=0.65, <0.75)",EU
+Cameroon,356,0.0896,0.2769,"medium-high (>=0.25, <0.55)",0.8961,very high (>=0.85),G77 & China
+Bangladesh,2390,0.0888,0.2739,"medium-high (>=0.25, <0.55)",0.8895,very high (>=0.85),"G77 & China, LDC"
+Italy,3246,0.0888,0.2739,"medium-high (>=0.25, <0.55)",0.6559,"medium (>=0.65, <0.75)",EU
+Albania,136,0.0885,0.2729,"medium-high (>=0.25, <0.55)",0.6765,"medium (>=0.65, <0.75)",
+Sweden,2124,0.0861,0.2642,"medium-high (>=0.25, <0.55)",0.7227,"medium (>=0.65, <0.75)",EU
+Hungary,172,0.0856,0.2625,"medium-high (>=0.25, <0.55)",0.8081,"high (>=0.75, <0.85)",EU
+Czech Republic,370,0.0853,0.2614,"medium-high (>=0.25, <0.55)",0.7459,"medium (>=0.65, <0.75)",EU
+Malta,152,0.0848,0.2597,"medium-high (>=0.25, <0.55)",0.7105,"medium (>=0.65, <0.75)",EU
+Greece,830,0.0848,0.2596,"medium-high (>=0.25, <0.55)",0.6952,"medium (>=0.65, <0.75)",EU
+Spain,3569,0.0841,0.2573,"medium-high (>=0.25, <0.55)",0.6506,"medium (>=0.65, <0.75)",EU
+Germany,5548,0.084,0.257,"medium-high (>=0.25, <0.55)",0.7426,"medium (>=0.65, <0.75)",EU
+Finland,1552,0.0835,0.2549,"medium-high (>=0.25, <0.55)",0.7274,"medium (>=0.65, <0.75)",EU
+Dominican Republic,108,0.0826,0.2517,"medium-high (>=0.25, <0.55)",0.5463,very low (<0.55),
+Denmark,942,0.0826,0.2517,"medium-high (>=0.25, <0.55)",0.7548,"high (>=0.75, <0.85)",EU
+Namibia,277,0.0823,0.2507,"medium-high (>=0.25, <0.55)",0.7942,"high (>=0.75, <0.85)",G77 & China
+Cyprus,329,0.0819,0.2492,"medium-low (>=0.15, <0.25)",0.7356,"medium (>=0.65, <0.75)",EU
+Portugal,1229,0.0816,0.2482,"medium-low (>=0.15, <0.25)",0.7331,"medium (>=0.65, <0.75)",EU
+France,4313,0.0812,0.2469,"medium-low (>=0.15, <0.25)",0.7227,"medium (>=0.65, <0.75)",EU
+Vietnam,354,0.081,0.2462,"medium-low (>=0.15, <0.25)",0.6412,"low (>=0.55, <0.65)",G77 & China
+Romania,232,0.0809,0.2457,"medium-low (>=0.15, <0.25)",0.5603,"low (>=0.55, <0.65)",EU
+Somalia,1196,0.0808,0.2454,"medium-low (>=0.15, <0.25)",0.9189,very high (>=0.85),"G77 & China, LDC, Arab Group"
+Austria,863,0.0805,0.2441,"medium-low (>=0.15, <0.25)",0.7903,"high (>=0.75, <0.85)",EU
+Croatia,210,0.0802,0.243,"medium-low (>=0.15, <0.25)",0.7048,"medium (>=0.65, <0.75)",EU
+Gambia,281,0.0801,0.2429,"medium-low (>=0.15, <0.25)",0.9253,very high (>=0.85),"G77 & China, LDC"
+Poland,864,0.0795,0.2408,"medium-low (>=0.15, <0.25)",0.7407,"medium (>=0.65, <0.75)",EU
+Colombia,963,0.0789,0.2384,"medium-low (>=0.15, <0.25)",0.7331,"medium (>=0.65, <0.75)",G77 & China
+Ireland,11733,0.0778,0.2343,"medium-low (>=0.15, <0.25)",0.7413,"medium (>=0.65, <0.75)",EU
+Netherlands,3869,0.0774,0.2332,"medium-low (>=0.15, <0.25)",0.6914,"medium (>=0.65, <0.75)",EU
+Israel,466,0.0773,0.2328,"medium-low (>=0.15, <0.25)",0.6631,"medium (>=0.65, <0.75)",
+Egypt,5670,0.0763,0.229,"medium-low (>=0.15, <0.25)",0.83,"high (>=0.75, <0.85)","G77 & China, Arab Group"
+Sierra Leone,268,0.0761,0.2285,"medium-low (>=0.15, <0.25)",0.9291,very high (>=0.85),"G77 & China, LDC"
+United Republic of Tanzania,1489,0.0755,0.2261,"medium-low (>=0.15, <0.25)",0.9019,very high (>=0.85),"G77 & China, LDC"
+Algeria,104,0.0741,0.2213,"medium-low (>=0.15, <0.25)",0.2788,very low (<0.55),
+Malawi,505,0.0735,0.219,"medium-low (>=0.15, <0.25)",0.8297,"high (>=0.75, <0.85)","G77 & China, LDC"
+Belgium,2940,0.0734,0.2185,"medium-low (>=0.15, <0.25)",0.7983,"high (>=0.75, <0.85)",EU
+Kazakhstan,175,0.0726,0.2159,"medium-low (>=0.15, <0.25)",0.6914,"medium (>=0.65, <0.75)",Umbrella Group
+Guatemala,113,0.0716,0.212,"medium-low (>=0.15, <0.25)",0.7434,"medium (>=0.65, <0.75)",
+Mexico,1616,0.0704,0.2078,"medium-low (>=0.15, <0.25)",0.6448,"low (>=0.55, <0.65)",EIG
+Costa Rica,461,0.0703,0.2076,"medium-low (>=0.15, <0.25)",0.8026,"high (>=0.75, <0.85)",G77 & China
+Chile,203,0.0701,0.2067,"medium-low (>=0.15, <0.25)",0.601,"low (>=0.55, <0.65)",G77 & China
+Oman,209,0.0678,0.1985,"medium-low (>=0.15, <0.25)",0.8469,"high (>=0.75, <0.85)","G77 & China, Arab Group"
+Democratic Republic of the Congo,198,0.0672,0.1965,"medium-low (>=0.15, <0.25)",0.8131,"high (>=0.75, <0.85)","G77 & China, LDC"
+Sri Lanka,640,0.0669,0.1952,"medium-low (>=0.15, <0.25)",0.7656,"high (>=0.75, <0.85)",G77 & China
+Bahamas,191,0.0653,0.1894,"medium-low (>=0.15, <0.25)",0.3979,very low (<0.55),"G77 & China, SIDS"
+Botswana,399,0.0651,0.1888,"medium-low (>=0.15, <0.25)",0.7519,"high (>=0.75, <0.85)",G77 & China
+Lesotho,177,0.0635,0.1831,"medium-low (>=0.15, <0.25)",0.7797,"high (>=0.75, <0.85)","G77 & China, LDC"
+Qatar,704,0.0631,0.1815,"medium-low (>=0.15, <0.25)",0.5753,"low (>=0.55, <0.65)","G77 & China, Arab Group"
+Turkey,1342,0.0594,0.1683,"medium-low (>=0.15, <0.25)",0.7817,"high (>=0.75, <0.85)",
+Ecuador,186,0.0592,0.1676,"medium-low (>=0.15, <0.25)",0.6935,"medium (>=0.65, <0.75)",G77 & China
+Rwanda,1158,0.0579,0.1629,"medium-low (>=0.15, <0.25)",0.9093,very high (>=0.85),"G77 & China, LDC"
+Bahrain,220,0.0575,0.1616,"medium-low (>=0.15, <0.25)",0.3773,very low (<0.55),"G77 & China, Arab Group"
+Jordan,276,0.0572,0.1602,"medium-low (>=0.15, <0.25)",0.413,very low (<0.55),"G77 & China, Arab Group"
+Indonesia,1478,0.0565,0.1578,"medium-low (>=0.15, <0.25)",0.7476,"medium (>=0.65, <0.75)",G77 & China
+Pakistan,8689,0.0547,0.1514,"medium-low (>=0.15, <0.25)",0.8359,"high (>=0.75, <0.85)",G77 & China
+China,1226,0.0426,0.1076,low (<0.15),0.637,"low (>=0.55, <0.65)",G77 & China
+Saudi Arabia,1149,0.0419,0.1052,low (<0.15),0.5561,"low (>=0.55, <0.65)","G77 & China, Arab Group"
+United Arab Emirates,2262,0.0349,0.0801,low (<0.15),0.8214,"high (>=0.75, <0.85)","G77 & China, Arab Group"
+Iraq,255,0.0315,0.0677,low (<0.15),0.7882,"high (>=0.75, <0.85)","G77 & China, Arab Group"
+Tunisia,346,0.0312,0.0665,low (<0.15),0.3497,very low (<0.55),"G77 & China, Arab Group"
+South Sudan,118,0.0127,0.0,low (<0.15),0.8559,very high (>=0.85),

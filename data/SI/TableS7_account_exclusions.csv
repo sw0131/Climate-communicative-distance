@@ -1,0 +1,6 @@
+﻿Setting,Accounts removed,Posts removed,Share of posts,Countries retained,Mean ADI,Mean OSI,r (ADI),r (OSI)
+Baseline,0,0,0.0%,100,0.100,0.725,—,—
+Organizational (p >= 0.9),"21,230","95,910",16.2%,92,0.099,0.709,0.999,0.985
+Organizational (p >= 0.8),"26,826","119,511",20.2%,91,0.099,0.710,0.998,0.977
+Automation tools,"2,461","34,490",5.8%,100,0.100,0.724,1.000,0.999
+Either of the above,"21,440","101,589",17.2%,92,0.099,0.710,0.999,0.984
