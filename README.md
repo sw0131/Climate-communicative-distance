@@ -86,7 +86,3 @@ pip install numpy==1.26.4 pandas nltk==3.9.1 gensim==4.4.0 \
 Models: `climatebert/distilroberta-base-climate-f` (NDC embeddings),
 `microsoft/deberta-xlarge-mnli` (BERTScore; `src/download_model.sh` fetches it),
 `robookwus/climate-change-belief` (stance). Regressions use statsmodels 0.14.5.
-
-## License
-
-MIT, see `LICENSE`.
