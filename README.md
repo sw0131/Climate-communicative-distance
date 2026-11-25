@@ -1,15 +1,13 @@
 # Communicative distance between national climate pledges and online climate discourse
 
-Code and derived data for the manuscript *Social Media Derived Communicative Distance
-Diverges from National Climate Pledges* (Communications Earth & Environment,
-COMMSENV-26-3931). The manuscript is under double-anonymized review; author information
-and a citation will be added on publication.
+Code and derived data for the paper *National climate pledges and public discourse 
+diverge most in high per capita greenhouse gas emissions countries*.
 
 The study places Nationally Determined Contributions (NDCs) and climate-related posts
 from X in a shared topic space of 38 topics (T1-T38) grouped into six thematic groups
 (G1-G6), and compares them with three indices: the Attention Distance Index (ADI), the
 Online Stance Index (OSI) and the Topic Visibility Ratio (TVR). Definitions are in the
-Methods of the manuscript.
+Methods of the paper.
 
 ## Layout
 
@@ -38,7 +36,7 @@ Methods of the manuscript.
 - `covariates_2021.csv` and `covariates_2022.csv`: the four outcomes and four controls by ISO3 code, merged from Our World in Data, the Worldwide Governance Indicators and ND-GAIN. Table 2 uses the 2021 values, the latest year with near-complete coverage.
 - `GA_by_country.csv`: NDC topic weights by country. `topic_table.csv`: the 38 topics with their sentences, groups and keywords. `country_totals.csv`: posts and climate-related posts by country code in the 2022 archive.
 - `SI/`: Table 1 of the main text, Supplementary Tables 1, 2 and 5 to 8, the sample funnel, and the source data of Figures 2 to 4. Supplementary Tables 3 and 4 quote posts and are therefore only in the Supplementary Information.
-- `submission/`: `Source Data.xlsx` (one sheet per main and supplementary figure) and `Supplementary Data 1` and `2` as submitted.
+- `submission/`: `Supplementary Data 1` (one sheet per main and supplementary figure) and `Supplementary Data 2` and `3` as submitted.
 
 ## What can be reproduced from the released data
 
