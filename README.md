@@ -42,7 +42,7 @@ Methods of the paper.
 
 - Table 2: `06_regressions.ipynb` from `data/indices_2022_by_country.csv` and `data/covariates_2021.csv`; it writes `output/tables/Table2.csv`.
 - Figures 2 and 3: `10_figure2_map.ipynb` and `11_figure3_maps.ipynb` from `data/indices_2022_by_country.csv`.
-- Notebooks 02 to 05, 07, 08, 09 and 12 read post-level files (the posts, and the topic recall and stance of each post) that are not distributed; the values they produce are in `data/SI` and `data/submission/Source Data.xlsx`.
+- Notebooks 02 to 05, 07, 08, 09 and 12 read post-level files (the posts, and the topic recall and stance of each post) that are not distributed; the values they produce are in `data/SI` and `data/submission/Supplementary Data 1.xlsx`.
 
 To run a notebook, copy `data/` to `output/` (or set `CD_OUTPUT_DIR` to the `data` folder) and start Jupyter from the repository root, so that the `src/` path in the first cell resolves.
 
